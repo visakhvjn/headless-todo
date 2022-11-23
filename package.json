@@ -1,0 +1,17 @@
+{
+  "name": "@vjnvisakh/headless-todo",
+  "version": "1.0.0",
+  "description": "A simple headless todo application that can added to your frontend project",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "sqlite3": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
